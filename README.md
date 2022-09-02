@@ -1,6 +1,6 @@
 # AAVE
-![ALT](aave poster.png)
-<img src="aave poster.png" alt="drawing" width="200" height="200"/>
+
+<img src="aave poster.png" alt="drawing" width="600" height="250"/>
 ## Working of the Interest Lottery.
 
 # 1. A Weekly Drawing
